@@ -8,7 +8,7 @@
   - Email: ezequieloliveirabarboza@gmail.com
   - LinkedIn: [linkedin.com/in/ezequiel-oliveira-barboza](https://www.linkedin.com/in/ezequiel-oliveira-barboza/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles and I'm a big fan of chess!
+- ⚡ Fun fact: I love solving puzzles and I'm a big fan of rpg!
 
 ## My Skills
 - **Programming Languages:** Java, JavaScript, HTML, CSS
