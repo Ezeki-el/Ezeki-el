@@ -16,13 +16,9 @@
 - **Databases:** MySQL, PostgreSQL
 - **Tools and Platforms:** Git, Docker, Jenkins
 
-## Projects
-### [Project 1: Library Management System](https://github.com/Ezeki-el/library-management-system)
-A web application for managing library resources built with Java and Spring Boot.
+![Ezeki-el's Stats](https://github-readme-stats.vercel.app/api?username=Ezeki-el&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-### [Project 2: Personal Portfolio Website](https://github.com/Ezeki-el/portfolio-website)
-A personal portfolio website to showcase my projects and skills, built with HTML, CSS, and JavaScript.
-
+![Ezeki-el's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezeki-el&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 ## Education
 - Bachelor's in Computer Science from Estacio University
 
